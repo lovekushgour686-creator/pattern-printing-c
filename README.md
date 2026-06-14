@@ -16,6 +16,8 @@ Welcome to the **C Pattern Programs** repository! This repository contains a cur
 | `01.c` | Solid Rectangle Star Pattern | Width scaled to `num + 2` |
 | `02.c` | Solid Square Star Pattern | Equal length `num` row/col spacing |
 | `03.c` | Solid Square Number Pattern | Iterative column digits grid |
+| `04.c` | Right Half Pyramid Star Triangle | Right half pyramid where inner column star execution is bounded by the row index. |
+| `05.c` | Right Half Pyramid Number Triangle | Right half pyramid structure printing sequential row step digits sequentially. |
 
 ---
 
