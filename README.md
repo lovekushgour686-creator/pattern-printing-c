@@ -18,6 +18,8 @@ Welcome to the **C Pattern Programs** repository! This repository contains a cur
 | `03.c` | Solid Square Number Pattern | Iterative column digits grid |
 | `04.c` | Right Half Pyramid Star Triangle | Right half pyramid where inner column star execution is bounded by the row index. |
 | `05.c` | Right Half Pyramid Number Triangle | Right half pyramid structure printing sequential row step digits sequentially. |
+| `06.c` | Right Half Pyramid Odd Number Triangle | Renders a right half pyramid using an independent `odd` tracker that resets and steps up by 2 on each column. |
+| `07.c` | Alphabetical Letter Square Grid | Prints a flat square grid where columns incre
 
 ---
 
