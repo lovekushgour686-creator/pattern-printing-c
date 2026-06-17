@@ -19,7 +19,10 @@ Welcome to the **C Pattern Programs** repository! This repository contains a cur
 | `04.c` | Right Half Pyramid Star Triangle | Right half pyramid where inner column star execution is bounded by the row index. |
 | `05.c` | Right Half Pyramid Number Triangle | Right half pyramid structure printing sequential row step digits sequentially. |
 | `06.c` | Right Half Pyramid Odd Number Triangle | Renders a right half pyramid using an independent `odd` tracker that resets and steps up by 2 on each column. |
-| `07.c` | Alphabetical Letter Square Grid | Prints a flat square grid where columns incre
+| `07.c` | Alphabetical Letter Square Grid | Prints a flat square grid where column values increment dynamically starting from character variable `'A'`. |
+| `08.c` | Alternating Number and Char Triangle | Uses conditional parity mapping (`r % 2 != 0`) to alternate between numeric and alphabetic steps. |
+| `09.c` | Inverted Left Half Pyramid Star Triangle | An upside-down star triangle utilizing an inverse horizontal grid constraint condition: `1 + n - r`. |
+| `10.c` | Inverted Left Half Pyramid Number Triangle | An upside-down triangle structure displaying sequenced column numbers (`c`) bounded up to `n - r + 1`. |
 
 ---
 
