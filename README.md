@@ -23,7 +23,8 @@ Welcome to the **C Pattern Programs** repository! This repository contains a cur
 | `08.c` | Alternating Number and Char Triangle | Uses conditional parity mapping (`r % 2 != 0`) to alternate between numeric and alphabetic steps. |
 | `09.c` | Inverted Left Half Pyramid Star Triangle | An upside-down star triangle utilizing an inverse horizontal grid constraint condition: `1 + n - r`. |
 | `10.c` | Inverted Left Half Pyramid Number Triangle | An upside-down triangle structure displaying sequenced column numbers (`c`) bounded up to `n - r + 1`. |
-
+| `11.c` | Alphabetical Letter Uniform Square | Renders a square grid where each row cycles sequentially from character `'A'` to `'A' + n` via character type casting. |
+| `12.c` | Full Symmetric Number Pyramid | Constructs an advanced centered pyramid layout combining an inversion space loop (`n - r + 1`), an ascending column loop, and a decrementing loop tracking step-down offsets. |
 ---
 
 🛠️ How to Compile and Run
