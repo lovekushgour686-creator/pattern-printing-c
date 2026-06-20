@@ -25,6 +25,8 @@ Welcome to the **C Pattern Programs** repository! This repository contains a cur
 | `10.c` | Inverted Left Half Pyramid Number Triangle | An upside-down triangle structure displaying sequenced column numbers (`c`) bounded up to `n - r + 1`. |
 | `11.c` | Alphabetical Letter Uniform Square | Renders a square grid where each row cycles sequentially from character `'A'` to `'A' + n` via character type casting. |
 | `12.c` | Full Symmetric Number Pyramid | Constructs an advanced centered pyramid layout combining an inversion space loop (`n - r + 1`), an ascending column loop, and a decrementing loop tracking step-down offsets. |
+| `13.c` | Full Symmetric Alphabetical Pyramid | Creates a centered letter pyramid combining inverse spacing loop structures with multiple character tracking blocks resetting from `'A'` and decreasing relative row offsets (`ch = r - 1 + 64`). |
+| `14.c` | Dynamic Star Diamond Pattern | Renders a symmetric star diamond structure around a calculated middle pivot landmark `m = (n / 2) + 1`, dynamically adjusting star width counters (`nst`) and space pads (`nsp`) with conditional branches as rows progress. |
 ---
 
 🛠️ How to Compile and Run
